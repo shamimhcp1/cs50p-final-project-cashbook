@@ -1,0 +1,5 @@
+id,type_id,category_id,amount,remarks,date
+1,1,3,7000,salary for aug,2023-09-11
+2,1,6,6293,Pytest random update entry,2022-11-10
+3,1,2,200,Pytest cash in entry,2023-10-05
+4,2,2,400,Pytest cash out entry,2022-11-10
